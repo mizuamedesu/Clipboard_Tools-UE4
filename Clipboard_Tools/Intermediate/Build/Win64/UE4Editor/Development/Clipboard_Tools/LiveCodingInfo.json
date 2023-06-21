@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Clipboard_Tools.cpp.obj": [
+			"Clipboard_Tools.cpp.obj",
+			"Clipboard_ToolsBPLibrary.cpp.obj"
+		],
+		"Module.Clipboard_Tools.gen.cpp.obj": [
+			"Clipboard_Tools.init.gen.cpp.obj",
+			"Clipboard_ToolsBPLibrary.gen.cpp.obj"
+		]
+	}
+}

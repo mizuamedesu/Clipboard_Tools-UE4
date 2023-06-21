@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Clipboard_Tools-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ASCII\Intermediate\Build\Win64\ASCIIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\ASCII\Plugins\Clipboard_Tools\Intermediate\Build\Win64\UE4Editor\Development\Clipboard_Tools\Module.Clipboard_Tools.cpp.obj"
+"E:\ASCII\Plugins\Clipboard_Tools\Intermediate\Build\Win64\UE4Editor\Development\Clipboard_Tools\Module.Clipboard_Tools.gen.cpp.obj"
+"E:\ASCII\Plugins\Clipboard_Tools\Intermediate\Build\Win64\UE4Editor\Development\Clipboard_Tools\Default.rc2.res"
+/OUT:"E:\ASCII\Plugins\Clipboard_Tools\Intermediate\Build\Win64\UE4Editor\Development\Clipboard_Tools\UE4Editor-Clipboard_Tools-0005.lib"
